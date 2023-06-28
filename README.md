@@ -1,1 +1,1 @@
-https://github.com/Anirudhganesan/web-programming/blob/main/index.html
+https://anirudhganesan.github.io/web-programming/
